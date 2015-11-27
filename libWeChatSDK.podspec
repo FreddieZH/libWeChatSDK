@@ -9,7 +9,7 @@ s.license      = 'MIT'
 s.platform     = :ios, "6.0"
 s.ios.deployment_target = "6.0"
 s.source       = { :git => "https://github.com/zfan67/libWeChatSDK.git", :tag => s.version}
-s.source_files  = 'zfan67/libWeChatSDK/*.{h,m}'
+s.source_files  = 'zfan67/libWeChatSDK/*.{h,m,a}'
 s.requires_arc = true
 end
 
